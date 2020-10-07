@@ -203,6 +203,14 @@ for j in range(10):
   shape(70, 6)
   design.left(35)
 design.end_fill()
+#pentagon
+design.color("red")
+design.begin_fill()
+for j in range(9) :
+
+  shape(60, 5)
+  design.left(45)
+design.end_fill()
 
 #pentagon
 design.color("white")
