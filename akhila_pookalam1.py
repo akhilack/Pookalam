@@ -23,7 +23,7 @@ def circle(color,radius):
     design.right(90)
     design.pendown()
     design.end_fill()
-circle("black",290)
+circle("red",290)
 circle("green",280)
 circle("red",270)
 circle("orange",260)
